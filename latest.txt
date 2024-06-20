@@ -1,1 +1,1 @@
-2.tcp.eu.ngrok.io:14120
+g1.veroid.net:25582
